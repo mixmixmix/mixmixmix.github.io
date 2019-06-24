@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Miks&#39; website</title>
+    <link>http://mixmixmix.github.io/posts/</link>
+    <description>Recent content in Posts on Miks&#39; website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2019 14:52:51 +0100</lastBuildDate>
+    
+	    <atom:link href="http://mixmixmix.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://mixmixmix.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 24 Jun 2019 14:52:51 +0100</pubDate>
+      
+      <guid>http://mixmixmix.github.io/posts/hello-world/</guid>
+      <description>&lt;p&gt;Hello dear world!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
