@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,7 +10,6 @@
   <url>
     <loc>http://mixmixmix.github.io/</loc>
     <lastmod>2019-06-25T01:12:03+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -35,13 +34,10 @@
   
   <url>
     <loc>http://mixmixmix.github.io/authors/</loc>
-    <lastmod>2019-06-25T01:12:03+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://mixmixmix.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -51,7 +47,6 @@
   
   <url>
     <loc>http://mixmixmix.github.io/publication_types/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,7 +66,6 @@
   
   <url>
     <loc>http://mixmixmix.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
